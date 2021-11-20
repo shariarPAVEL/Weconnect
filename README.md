@@ -1,2 +1,0 @@
-# Weconnect
-Final year project
